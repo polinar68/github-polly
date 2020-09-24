@@ -8,6 +8,7 @@ import ChartPage from './components/ChartPage';
 import FormsPage from './components/FormsPage';
 import Footer from './components/Footer';
 
+.
 const App = () => {
   const [theme, setTheme] = useState("https://unpkg.com/@progress/kendo-theme-default@latest/dist/all.css");
 
