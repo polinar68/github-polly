@@ -29,8 +29,8 @@ const App = () => {
         <div className="footer">
           <Footer />
         </div>
-      </Router>
+      COREpolly
   );
 }
 
-export default App;
+export default COREpolly;
